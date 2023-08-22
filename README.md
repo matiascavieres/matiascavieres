@@ -1,19 +1,18 @@
-### Hi there 👋
-Me llamo Matias Cavieres 
-Soy estudiante de la carrera de ingenieria en informatica en Inacap.  
+# Hola, Mi nombre es Matias Cavieres.👋
 
-Titulado de la carrera Analista Programador en Inacap 2022☠️  
-<!--
-**matiascavieres/matiascavieres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚠️Este repositorio esta en construccion.
 
-Here are some ideas to get you started:
+Estudiante de ingenieria en informatica en Inacap. 2023  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Titulado de la carrera Analista Programador en Inacap 2022☠️ 
+
+- 🔭 Actualmente estoy agregando diferentes proyectos desarrollados en la universidad para mi GitHub.
+
+- 🌱 Actualmente estoy aprendiendo del ecosistema de JavaScript, sobre todo el stack MERN
+
+- 👯 Estoy en busqueda de una empresa para trabajar como FullStack Developer o Data Analyst donde me pueda proyectar y crecer profesionalmente.
+
+- 🤔 Cualquier comentario o retroalimentacion siempre es bienvenida.
+
+- 💬 Tengo 24 años
+- 📫 Me puedes contactar a: matcavieres@gmail.com
