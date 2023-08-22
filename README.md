@@ -4,7 +4,7 @@
 
 Estudiante de ingenieria en informatica en Inacap. 2023  
 
-Titulado de la carrera Analista Programador en Inacap 2022☠️ 
+Titulado de la carrera Analista Programador en Inacap 2023
 
 - 🔭 Actualmente estoy agregando diferentes proyectos desarrollados en la universidad para mi GitHub.
 
