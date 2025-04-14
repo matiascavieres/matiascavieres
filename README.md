@@ -2,7 +2,7 @@
 
 ⚠️Este repositorio esta en construccion.
 
-Estudiante de ingenieria en informatica en Inacap. 2023  
+Egresado de ingenieria en informatica en Inacap. 2024  
 
 Titulado de la carrera Analista Programador en Inacap 2023
 
@@ -14,5 +14,5 @@ Titulado de la carrera Analista Programador en Inacap 2023
 
 - 🤔 Cualquier comentario o retroalimentacion siempre es bienvenida.
 
-- 💬 Tengo 24 años
+- 💬 Tengo 26 años
 - 📫 Me puedes contactar a: matcavieres@gmail.com
