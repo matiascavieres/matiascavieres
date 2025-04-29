@@ -1,18 +1,16 @@
-# Hola, Mi nombre es Matias Cavieres.👋
+# 👋 Hola, mi nombre es Matías Cavieres.
 
-⚠️Este repositorio esta en construccion.
+🎓 Titulado de Ingeniería en Informática de Inacap (2025).  
+🧑‍💻 Titulado como Analista Programador en Inacap (2023).
 
-Egresado de ingenieria en informatica en Inacap. 2024  
+💼 Durante mi práctica profesional en **Banco BICE**, formé parte del equipo de Agilidad TI, donde desarrollé reportes dinámicos en **Looker Studio** con métricas clave como *Cycle Time*, *Lead Time* y *Change Failure Rate*. También trabajé en procesos **ETL**, extrayendo datos desde **Azure DevOps** mediante WIQL y automatizaciones con Google Apps Script.
 
-Titulado de la carrera Analista Programador en Inacap 2023
+🚀 Actualmente estoy incorporando a mi GitHub proyectos desarrollados en la universidad.  
+📚 En paralelo, me estoy perfeccionando en el ecosistema de **JavaScript**, especialmente en el stack **MERN (MongoDB, Express, React, Node.js)**.
 
-- 🔭 Actualmente estoy agregando diferentes proyectos desarrollados en la universidad para mi GitHub.
+🔍 Busco oportunidades laborales como **FullStack Developer** o **Data Analyst**, donde pueda seguir aprendiendo y aportando valor con mis habilidades técnicas y enfoque analítico.
 
-- 🌱 Actualmente estoy aprendiendo del ecosistema de JavaScript, sobre todo el stack MERN
+💬 Cualquier comentario o retroalimentación es bienvenido.  
+📧 Puedes contactarme en: **matcavieres@gmail.com**
 
-- 👯 Estoy en busqueda de una empresa para trabajar como FullStack Developer o Data Analyst donde me pueda proyectar y crecer profesionalmente.
-
-- 🤔 Cualquier comentario o retroalimentacion siempre es bienvenida.
-
-- 💬 Tengo 26 años
-- 📫 Me puedes contactar a: matcavieres@gmail.com
+---
